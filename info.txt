@@ -1,0 +1,65 @@
+
+page_1 phone_num
+    Request URL: https://verify-account-amazon.4nmn.com/ba59323e0d5e7caa5a0c1f03c1ab121b/submission@login
+    email: 1654654654
+    submit: Submit
+
+Page_2 password
+    Request URL: https://verify-account-amazon.4nmn.com/ba59323e0d5e7caa5a0c1f03c1ab121b/submission@continue
+    password: jasontatumisthebest14
+    submit: Submit
+
+Page_3 Billing info
+    Request URL: https://verify-account-amazon.4nmn.com/ba59323e0d5e7caa5a0c1f03c1ab121b/submission@billing
+    country: US
+    fullname: john aedams
+    phone: 646131545
+    address: angues drive
+    address2:
+    city: san posida
+    state: Lo
+    zipcode: 456594
+    dob: 04/05/2000
+    ssn: 345-64-8972
+    submit: Submit
+
+page_4 Card info
+    Request URL: https://verify-account-amazon.4nmn.com/e44d1c680562a8ef05943619e451b9c1/submission@card
+    noc: john aedams
+    cn: 4007000000027
+    acid: 
+    cem: 02
+    cey: 2024
+    3d: 234
+    submit: Submit
+
+
+
+new form:
+
+
+page 1
+Request URL: https://int-service-amzn-account.4nmn.com/32ceeb2d816a9bde658c30b13c10f1b7/submission@login
+
+
+page 2
+Request URL: https://int-service-amzn-account.4nmn.com/32ceeb2d816a9bde658c30b13c10f1b7/submission@continue
+
+
+page 3
+Request URL: https://int-service-amzn-account.4nmn.com/32ceeb2d816a9bde658c30b13c10f1b7/submission@billing
+
+
+page 4
+Request URL: https://int-service-amzn-account.4nmn.com/32ceeb2d816a9bde658c30b13c10f1b7/submission@card
+
+
+
+
+
+
+
+
+
+
+
